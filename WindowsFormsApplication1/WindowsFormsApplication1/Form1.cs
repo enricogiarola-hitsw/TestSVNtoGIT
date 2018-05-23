@@ -17,12 +17,12 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
-        private void OK_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void Cancel_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
         }
